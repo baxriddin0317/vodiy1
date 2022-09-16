@@ -16,6 +16,6 @@ elCloseButton.addEventListener('click', function () {
 });
 }
 
-setTimeout(function () {
-  elModal.classList.add('modal-open')
-}, 3000);
+// setTimeout(function () {
+//   elModal.classList.add('modal-open')
+// }, 3000);
